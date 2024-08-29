@@ -1,0 +1,188 @@
+﻿<Window x:Class="EmailClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:EmailClient"  
+        Title="Email Client" Height="450" Width="800">
+   <Window.Resources>
+
+        <Style x:Key="CategoryTextStyle" TargetType="TextBlock">
+            <Style.Triggers>
+                <DataTrigger Binding="{Binding Category}" Value="Important">
+                    <Setter Property="Foreground" Value="Red"/>
+                </DataTrigger>
+                <DataTrigger Binding="{Binding Category}" Value="Work">
+                    <Setter Property="Foreground" Value="Yellow"/>
+                </DataTrigger>
+            </Style.Triggers>
+        </Style>
+
+
+        <Storyboard x:Key="FadeOutStoryboard">
+            <DoubleAnimation Duration="0:0:0.5" From="1.0" To="0.0" Storyboard.TargetProperty="Opacity"/>
+        </Storyboard>
+
+
+        <Storyboard x:Key="RotateAnimation">
+            <DoubleAnimation Storyboard.TargetProperty="(UIElement.RenderTransform).(RotateTransform.Angle)"
+                         From="0" To="360"
+                         Duration="0:0:2"
+                         FillBehavior="HoldEnd" />
+        </Storyboard>
+    </Window.Resources>
+
+    <DockPanel LastChildFill="True">
+
+        <!-- Main Menu -->
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Settings" Click="Settings_Click"/>
+                <MenuItem Header="_Import" Click="Import_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Resources/import.png" Width="16" Height="16"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem Header="_Export" Click="Export_Click">
+                    <MenuItem.Icon>
+                        <Image Source="Resources/folder.png" Width="16" Height="16"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+
+                <MenuItem Header="Exit" Click="Exit_Click"/>
+            </MenuItem>
+            <MenuItem Header="_Message">
+                <MenuItem Header="_New" Click="New_Click"/>
+                <MenuItem Header="_Edit" Command="{Binding EditCommand}"/>
+                <MenuItem Header="_Delete" Click="Btndel_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <!-- Content Section -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="250"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Navigation Pane -->
+            <TreeView Grid.Column="0" ItemsSource="{Binding Folders}">
+                <TreeView.ItemTemplate>
+                    <HierarchicalDataTemplate ItemsSource="{Binding SubFolders}">
+                        <TextBlock Text="{Binding Name}" />
+                    </HierarchicalDataTemplate>
+                </TreeView.ItemTemplate>
+                <TreeView.ItemContainerStyle>
+                    <Style TargetType="TreeViewItem">
+                        <EventSetter Event="MouseDoubleClick" Handler="MailboxItem_MouseDoubleClick"/>
+                    </Style>
+                </TreeView.ItemContainerStyle>
+            </TreeView>
+
+            <!-- Email List and Content Display -->
+            <ScrollViewer Grid.Column="1" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+
+                <StackPanel  Orientation="Vertical">
+                <!-- Search and Actions Toolbar -->
+                <ToolBarTray>
+                    <ToolBar>
+                        
+                            <Button x:Name="btnRefresh" Click="Refresh_Click">
+                                <Button.Template>
+                                    <ControlTemplate>
+                                        <Image x:Name="imgRefresh" Source="Resources/Refresh_icon.png" Width="24" Height="24">
+                                            <Image.RenderTransform>
+                                                <RotateTransform  Angle="{Binding Angle}" />
+                                            </Image.RenderTransform>
+                                        </Image>
+                                    </ControlTemplate>
+                                </Button.Template>
+                            </Button>
+                            <Button Content="Compose" Click="Compose_Click"/>
+                            <Button Click="Reply_Click" Width="100" Height="30">
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="#FFDDDDDD" CornerRadius="5" Padding="10,5">
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                            <Image Source="Resources/reply.png" Width="16" Height="16"/>
+                                            <TextBlock Text="Reply" Margin="5,0,0,0" VerticalAlignment="Center"/>
+                                        </StackPanel>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+                        <Button Click="ReplyAll_Click" Width="120" Height="30">
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="#FFDDDDDD" CornerRadius="5" Padding="10,5">
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                            <Image Source="Resources/toall.png" Width="16" Height="16"/>
+                                            <TextBlock Text="Reply All" Margin="5,0,0,0" VerticalAlignment="Center"/>
+                                        </StackPanel>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+                        <Button Click="Forward_Click">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="Resources/forward.png" Width="16" Height="16"/>
+                                <TextBlock Text="Forward" Margin="5,0,0,0"/>
+                            </StackPanel>
+                        </Button>
+                        <Button Click="Btndel_Click" Width="100" Height="30">
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="#FFDDDDDD" CornerRadius="5">
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                            <Image Source="Resources/cross.png" Width="16" Height="16"/>
+                                            <TextBlock Text="Delete" Margin="5,0,0,0" VerticalAlignment="Center"/>
+                                        </StackPanel>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+                        <Separator/>
+                    </ToolBar>
+                </ToolBarTray>
+
+                <!-- EmailSearchControl positioned here -->
+                <local:EmailSearchControl SearchChanged="EmailSearchControl_SearchChanged"
+                              ResetSearch="EmailSearchControl_ResetSearch"
+                              Grid.Row="1"/>
+
+
+
+
+                    <!-- ListView to display emails with DataTemplate -->
+                    <ListView  Style="{StaticResource EmailListViewStyle}" x:Name="emailList"
+          ItemsSource="{Binding SelectedFolder.Emails}"
+          SelectedItem="{Binding SelectedEmail}"
+          MouseDoubleClick="EmailList_DoubleClick"
+          ScrollViewer.VerticalScrollBarVisibility="Disabled"
+                  ScrollViewer.HorizontalScrollBarVisibility="Disabled" SelectionChanged="emailList_SelectionChanged"
+                     VirtualizingStackPanel.IsVirtualizing="False" VirtualizingStackPanel.VirtualizationMode="Standard" >
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <Border Padding="5" Margin="5" BorderBrush="LightGray" BorderThickness="0.5" MouseEnter="OnMouseEnterHandler" MouseLeave="OnMouseLeaveHandler">
+                                    <StackPanel>
+                                        <TextBlock Text="{Binding Sender}" FontWeight="Bold" FontSize="14"/>
+                                        <StackPanel x:Name="detailPanel" Height="0">
+                                            <TextBlock Text="{Binding Receiver}" FontWeight="UltraBlack" FontSize="10"/>
+                                            <TextBlock Text="{Binding Subject}" FontStyle="Italic" Margin="0,5,0,0"/>
+                                            <TextBlock Text="{Binding Body}" FontStyle="Oblique" Margin="0,9,0,0"/>
+                                            <TextBlock Text="{Binding SentDate, StringFormat='Received: {0:MM/dd/yyyy}'}" Margin="0,5,0,0"/>
+                                            <TextBlock Text="{Binding Category}" Style="{StaticResource CategoryTextStyle}" Margin="0,5,0,0"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Border>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+
+                    </ListView>
+
+            </StackPanel>
+            </ScrollViewer>
+
+        </Grid>
+    </DockPanel>
+</Window>

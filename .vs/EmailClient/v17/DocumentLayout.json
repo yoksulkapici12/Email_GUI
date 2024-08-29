@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|c:\\users\\enes \u015Fen\\bunu 3. olarak y\u00FCkle\\devam et\\emailclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\input.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\input.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\style\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\style\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\emailclientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\emailclientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\editemailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\editemailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\emailfolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\emailfolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\composewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\composewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\composewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\composewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\emailsearchcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\emailsearchcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\listtostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\listtostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\emailsearchcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\emailsearchcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Enes \u015Een\\AppData\\Local\\Temp\\.vsdbgsrc\\da49532ef37fb95084cce1c314e0f8c8553e48c99c82e7cac57fc6c13632efed\\FrameworkTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\editemailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\editemailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\emailclient\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2432853C-49FB-4737-BAFF-136BDD4B6F55}|EmailClient\\EmailClient.csproj|solutionrelative:emailclient\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EmailClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EmailClient\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAUwIgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:43:58.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EmailClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\MainWindow.xaml",
+              "RelativeToolTip": "EmailClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T09:44:00.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailClientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\EmailClientViewModel.cs",
+              "RelativeDocumentMoniker": "EmailClient\\EmailClientViewModel.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\EmailClientViewModel.cs",
+              "RelativeToolTip": "EmailClient\\EmailClientViewModel.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwEoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T21:00:08.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "EmailClient\\SettingsWindow.xaml",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\SettingsWindow.xaml",
+              "RelativeToolTip": "EmailClient\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T16:05:19.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EmailClient\\SettingsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "EmailClient\\SettingsWindow.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:05:57.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.xaml",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\Input.xaml",
+              "RelativeDocumentMoniker": "EmailClient\\Input.xaml",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\Input.xaml",
+              "RelativeToolTip": "EmailClient\\Input.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T16:03:11.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditEmailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\EditEmailWindow.xaml",
+              "RelativeDocumentMoniker": "EmailClient\\EditEmailWindow.xaml",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\EditEmailWindow.xaml",
+              "RelativeToolTip": "EmailClient\\EditEmailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T17:45:52.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComposeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\ComposeWindow.xaml",
+              "RelativeDocumentMoniker": "EmailClient\\ComposeWindow.xaml",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\ComposeWindow.xaml",
+              "RelativeToolTip": "EmailClient\\ComposeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T11:51:24.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\Style\\Styles.xaml",
+              "RelativeDocumentMoniker": "EmailClient\\Style\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\Style\\Styles.xaml",
+              "RelativeToolTip": "EmailClient\\Style\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T15:33:47.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailFolder.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\EmailFolder.cs",
+              "RelativeDocumentMoniker": "EmailClient\\EmailFolder.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\EmailFolder.cs",
+              "RelativeToolTip": "EmailClient\\EmailFolder.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA2wJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:46:34.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\App.xaml",
+              "RelativeDocumentMoniker": "EmailClient\\App.xaml",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\App.xaml",
+              "RelativeToolTip": "EmailClient\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T15:38:33.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ComposeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\ComposeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EmailClient\\ComposeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\ComposeWindow.xaml.cs",
+              "RelativeToolTip": "EmailClient\\ComposeWindow.xaml.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAADwvz0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:56:56.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailSearchControl.xaml",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\EmailSearchControl.xaml",
+              "RelativeDocumentMoniker": "EmailClient\\EmailSearchControl.xaml",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\EmailSearchControl.xaml",
+              "RelativeToolTip": "EmailClient\\EmailSearchControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T21:02:40.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListToStringConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\ListToStringConverter.cs",
+              "RelativeDocumentMoniker": "EmailClient\\ListToStringConverter.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\ListToStringConverter.cs",
+              "RelativeToolTip": "EmailClient\\ListToStringConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:20:00.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailSearchControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\EmailSearchControl.xaml.cs",
+              "RelativeDocumentMoniker": "EmailClient\\EmailSearchControl.xaml.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\EmailSearchControl.xaml.cs",
+              "RelativeToolTip": "EmailClient\\EmailSearchControl.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T21:03:53.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrameworkTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\AppData\\Local\\Temp\\.vsdbgsrc\\da49532ef37fb95084cce1c314e0f8c8553e48c99c82e7cac57fc6c13632efed\\FrameworkTemplate.cs",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\da49532ef37fb95084cce1c314e0f8c8553e48c99c82e7cac57fc6c13632efed\\FrameworkTemplate.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\AppData\\Local\\Temp\\.vsdbgsrc\\da49532ef37fb95084cce1c314e0f8c8553e48c99c82e7cac57fc6c13632efed\\FrameworkTemplate.cs[Salt Okunur]",
+              "RelativeToolTip": "..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\da49532ef37fb95084cce1c314e0f8c8553e48c99c82e7cac57fc6c13632efed\\FrameworkTemplate.cs[Salt Okunur]",
+              "ViewState": "AQIAAAwDAAAAAAAAAAAWwBoDAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:51:35.375Z",
+              "EditorCaption": "[Salt Okunur]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditEmailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\EditEmailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EmailClient\\EditEmailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\EditEmailWindow.xaml.cs",
+              "RelativeToolTip": "EmailClient\\EditEmailWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:39:53.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "EmailClient\\Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "EmailClient\\Properties\\Settings.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:08:12.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "EmailClient\\Models\\Email.cs",
+              "ToolTip": "C:\\Users\\Enes \u015Een\\Bunu 3. olarak y\u00FCkle\\DEvam et\\EmailClient\\Models\\Email.cs",
+              "RelativeToolTip": "EmailClient\\Models\\Email.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAiwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:15:03.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

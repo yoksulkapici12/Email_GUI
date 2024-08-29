@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<ArrayOfEmailFolder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmailFolder>
+    <IconPath>Resources/folder.png</IconPath>
+    <Name>Dummy_42@sabanciuniv.edu</Name>
+    <SubFolders>
+      <EmailFolder>
+        <IconPath>Resources/inbox.png</IconPath>
+        <Name>Inbox</Name>
+        <SubFolders />
+        <Emails />
+      </EmailFolder>
+      <EmailFolder>
+        <IconPath>Resources/forward.png</IconPath>
+        <Name>Sent</Name>
+        <SubFolders />
+        <Emails>
+          <Email>
+            <Sender>Dummy_42@sabanciuniv.edu</Sender>
+            <CcRecipients>anna@example.com</CcRecipients>
+            <Subject>Sending Test</Subject>
+            <SentDate>2024-05-19T13:16:20.5478297+02:00</SentDate>
+            <IsDraft>false</IsDraft>
+            <Attachments />
+            <Receiver>you@example.com</Receiver>
+            <Body>This is a sending test.</Body>
+          </Email>
+          <Email>
+            <Sender>Dummy_42@sabanciuniv.edu</Sender>
+            <CcRecipients>aa@example.com</CcRecipients>
+            <Subject>Coming </Subject>
+            <SentDate>2024-05-19T13:16:20.5508226+02:00</SentDate>
+            <IsDraft>false</IsDraft>
+            <Attachments />
+            <Receiver>ru@le.com</Receiver>
+            <Body>Hellot.</Body>
+          </Email>
+        </Emails>
+      </EmailFolder>
+      <EmailFolder>
+        <IconPath>Resources/new.png</IconPath>
+        <Name>Drafts</Name>
+        <SubFolders />
+        <Emails>
+          <Email>
+            <Sender>Besdfn42@sabanciuniv.edu</Sender>
+            <CcRecipients>aa@example.com</CcRecipients>
+            <Subject>dsdkkfsdkmf23232ddd </Subject>
+            <SentDate>2024-05-19T13:16:20.5508226+02:00</SentDate>
+            <IsDraft>false</IsDraft>
+            <Attachments />
+            <Receiver>adddru@f.com</Receiver>
+            <Body>H233523et.</Body>
+          </Email>
+        </Emails>
+      </EmailFolder>
+      <EmailFolder>
+        <IconPath>Resources/deleted.png</IconPath>
+        <Name>Trash</Name>
+        <SubFolders />
+        <Emails>
+          <Email>
+            <Sender>Ben42@sabanciuniv.edu</Sender>
+            <CcRecipients>asssa@example.com</CcRecipients>
+            <Subject>33323ddd </Subject>
+            <SentDate>2024-05-19T13:16:20.5508226+02:00</SentDate>
+            <IsDraft>false</IsDraft>
+            <Attachments />
+            <Receiver>aru@sssf.com</Receiver>
+            <Body>H2e2eet.</Body>
+          </Email>
+        </Emails>
+      </EmailFolder>
+    </SubFolders>
+    <Emails />
+  </EmailFolder>
+  <EmailFolder>
+    <IconPath>Resources/folder.png</IconPath>
+    <Name>ceza_sago_42@sabanciuniv.edu</Name>
+    <SubFolders>
+      <EmailFolder>
+        <IconPath>Resources/inbox.png</IconPath>
+        <Name>Inbox</Name>
+        <SubFolders />
+        <Emails>
+          <Email>
+            <Sender>Beewdn42@siv.edu</Sender>
+            <CcRecipients>asssa@ele.com</CcRecipients>
+            <Subject>deliidddd </Subject>
+            <SentDate>2024-05-19T13:16:20.5508226+02:00</SentDate>
+            <IsDraft>false</IsDraft>
+            <Category>Important</Category>
+            <Attachments />
+            <Receiver>aruasdas@f.com</Receiver>
+            <Body>Hliiaksdmsakld333et.</Body>
+          </Email>
+        </Emails>
+      </EmailFolder>
+      <EmailFolder>
+        <IconPath>Resources/forward.png</IconPath>
+        <Name>Sent</Name>
+        <SubFolders />
+        <Emails>
+          <Email>
+            <Sender>Ben42@sabanciuniv.edu</Sender>
+            <CcRecipients>aa@example.com</CcRecipients>
+            <Subject>dddd </Subject>
+            <SentDate>2024-05-19T13:16:20.5508226+02:00</SentDate>
+            <IsDraft>false</IsDraft>
+            <Attachments />
+            <Receiver>aru@f.com</Receiver>
+            <Body>Het.</Body>
+          </Email>
+        </Emails>
+      </EmailFolder>
+      <EmailFolder>
+        <IconPath>Resources/new.png</IconPath>
+        <Name>Drafts</Name>
+        <SubFolders />
+        <Emails>
+          <Email>
+            <Sender>Ben42@sabanciuniv.edu</Sender>
+            <CcRecipients>aa@example.com</CcRecipients>
+            <Subject>dddd </Subject>
+            <SentDate>2024-05-19T13:16:20.5508226+02:00</SentDate>
+            <IsDraft>false</IsDraft>
+            <Attachments />
+            <Receiver>aru@f.com</Receiver>
+            <Body>Het.</Body>
+          </Email>
+        </Emails>
+      </EmailFolder>
+      <EmailFolder>
+        <IconPath>Resources/deleted.png</IconPath>
+        <Name>Trash</Name>
+        <SubFolders />
+        <Emails>
+          <Email>
+            <Sender>wer@sabanciuniv.edu</Sender>
+            <CcRecipients>aa@example.com</CcRecipients>
+            <Subject>ddassdddd </Subject>
+            <SentDate>2024-05-19T13:16:20.5508226+02:00</SentDate>
+            <IsDraft>false</IsDraft>
+            <Attachments />
+            <Receiver>aru@f.com</Receiver>
+            <Body>Hedfdt.</Body>
+          </Email>
+          <Email>
+            <Sender>Ben42@siv.edu</Sender>
+            <CcRecipients>aa@ele.com</CcRecipients>
+            <Subject>deliidddd </Subject>
+            <SentDate>2024-05-19T13:16:20.5508226+02:00</SentDate>
+            <IsDraft>false</IsDraft>
+            <Attachments />
+            <Receiver>aru@f.com</Receiver>
+            <Body>Hliiet.</Body>
+          </Email>
+        </Emails>
+      </EmailFolder>
+    </SubFolders>
+    <Emails />
+  </EmailFolder>
+</ArrayOfEmailFolder>

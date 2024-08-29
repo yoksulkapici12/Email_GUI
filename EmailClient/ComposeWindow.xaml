@@ -1,0 +1,83 @@
+﻿<Window x:Class="EmailClient.ComposeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Compose Email" Height="600" Width="1200">
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="Window.Loaded">
+            <BeginStoryboard>
+                <Storyboard>
+                    <ThicknessAnimation Duration="0:0:0.5" From="-300,0,300,0" To="0" Storyboard.TargetProperty="Margin"/>
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>
+    
+    
+    
+    <Grid>
+        <!-- Sender -->
+        <Label Style="{StaticResource DefaultLabelStyle}" Content="From:" Margin="10,0,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <ComboBox  Style="{StaticResource DefaultComboBoxStyle}" x:Name="cmbSender"
+    Margin="10,30,10,0"
+    ItemsSource="{Binding AvailableSenders}"
+    SelectedItem="{Binding SelectedSender, Mode=TwoWay}"
+    VerticalAlignment="Top"
+    HorizontalAlignment="Stretch" />
+        
+
+
+        <!-- Receiver -->
+        <Label Style="{StaticResource DefaultLabelStyle}" Content="To:" Margin="10,48,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox Style="{StaticResource DefaultTextBoxStyle}" x:Name="txtTo" Margin="10,68,10,0" VerticalAlignment="Top" HorizontalAlignment="Stretch"/>
+
+        <!-- Subject -->
+        <Label Style="{StaticResource DefaultLabelStyle}"  Content="Subject:" Margin="10,90,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox Style="{StaticResource DefaultTextBoxStyle}" x:Name="txtSubject" Margin="10,110,10,0" VerticalAlignment="Top" HorizontalAlignment="Stretch"/>
+
+        <!-- CC -->
+        <Label Style="{StaticResource DefaultLabelStyle}" Content="Cc:" Margin="10,133,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox Style="{StaticResource DefaultTextBoxStyle}" x:Name="CcRecpt" Margin="10,155,10,0" VerticalAlignment="Top" HorizontalAlignment="Stretch"/>
+
+
+        <!-- Body -->
+        <Label Style="{StaticResource DefaultLabelStyle}" Content="Body:" Margin="10,230,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox x:Name="txtBody"
+         Margin="10,250,10,10"
+         AcceptsReturn="True"
+         TextWrapping="Wrap"
+         VerticalScrollBarVisibility="Auto"
+         HorizontalScrollBarVisibility="Auto"
+         VerticalAlignment="Stretch"
+         HorizontalAlignment="Stretch"
+         Text="{Binding CurrentEmail.Body, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="10">
+            <!-- Save as Draft-->
+            <Button Style="{StaticResource PrimaryButtonStyle}" x:Name="btnDraft" Content="Save as Draft" Click="btnDraft_Click"/>
+            
+
+            <!-- Send Button -->
+            <Button  Style="{StaticResource PrimaryButtonStyle}" x:Name="btnSend" Content="Send" Click="btnSend_Click"/>
+            <ListBox  x:Name="totalAttachedFiles" Margin="10"/>
+
+        </StackPanel>
+
+        <Label Style="{StaticResource DefaultLabelStyle}" Content="Category:" Margin="10,188,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <ComboBox  Style="{StaticResource DefaultComboBoxStyle}" x:Name="cmbCategory"
+                  Margin="10,210,10,0"
+                  ItemsSource="{Binding Categories}"
+                  SelectedItem="{Binding SelectedCategory, Mode=TwoWay}"
+                  VerticalAlignment="Top"
+                  HorizontalAlignment="Stretch" SelectionChanged="cmbCategory_SelectionChanged"
+                  Text="{Binding CurrentEmail.Category, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+        <!--Attachement -->
+        <Button Style="{StaticResource PrimaryButtonStyle}" x:Name="btnAt" Margin="10" HorizontalAlignment="Left" VerticalAlignment="Bottom" Click="btnAt_Click">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="Resources/attachment.png" Width="16" Height="16"/>
+                <TextBlock Text=" Attach" VerticalAlignment="Center"/>
+            </StackPanel>
+        </Button>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,104 @@
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\bin\Release\EmailClient.exe.config
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\bin\Release\EmailClient.exe
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\bin\Release\EmailClient.pdb
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EmailClient.csproj.AssemblyReference.cache
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\ComposeWindow.baml
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EditEmailWindow.baml
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\MainWindow.baml
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\SettingsWindow.baml
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\ComposeWindow.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EditEmailWindow.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\MainWindow.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\SettingsWindow.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\App.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EmailClient_MarkupCompile.cache
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EmailClient.g.resources
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EmailClient.Properties.Resources.resources
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EmailClient.csproj.GenerateResource.cache
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EmailClient.csproj.CoreCompileInputs.cache
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EmailClient.exe
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EmailClient.pdb
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EmailSearchControl.baml
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EmailSearchControl.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient-1st\EmailClient\EmailClient\obj\Release\EmailClient_MarkupCompile.lref
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\bin\Release\EmailClient.exe.config
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\bin\Release\EmailClient.exe
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\bin\Release\EmailClient.pdb
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EmailClient.csproj.AssemblyReference.cache
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\ComposeWindow.baml
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EditEmailWindow.baml
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EmailSearchControl.baml
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\SettingsWindow.baml
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\ComposeWindow.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EditEmailWindow.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EmailSearchControl.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\MainWindow.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\SettingsWindow.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\App.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EmailClient_MarkupCompile.cache
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EmailClient_MarkupCompile.lref
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\MainWindow.baml
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EmailClient.g.resources
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EmailClient.Properties.Resources.resources
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EmailClient.csproj.GenerateResource.cache
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EmailClient.csproj.CoreCompileInputs.cache
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EmailClient.exe
+C:\Users\Enes Şen\Desktop\EmailClient\EmailClient\obj\Release\EmailClient.pdb
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\bin\Release\EmailClient.exe.config
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\bin\Release\EmailClient.exe
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\bin\Release\EmailClient.pdb
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EmailClient.csproj.AssemblyReference.cache
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\ComposeWindow.baml
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EditEmailWindow.baml
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EmailSearchControl.baml
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\SettingsWindow.baml
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\ComposeWindow.g.cs
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EditEmailWindow.g.cs
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EmailSearchControl.g.cs
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\MainWindow.g.cs
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\SettingsWindow.g.cs
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\App.g.cs
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EmailClient_MarkupCompile.cache
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EmailClient_MarkupCompile.lref
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\MainWindow.baml
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EmailClient.g.resources
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EmailClient.Properties.Resources.resources
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EmailClient.csproj.GenerateResource.cache
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EmailClient.csproj.CoreCompileInputs.cache
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EmailClient.exe
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\EmailClient.pdb
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\Input.baml
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\Input.g.cs
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\App.baml
+C:\Users\Enes Şen\Desktop\DEvam et\EmailClient\obj\Release\Style\Styles.baml
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\bin\Release\EmailClient.exe.config
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\bin\Release\EmailClient.exe
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\bin\Release\EmailClient.pdb
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EmailClient.csproj.AssemblyReference.cache
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\ComposeWindow.baml
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EditEmailWindow.baml
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EmailSearchControl.baml
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\Input.baml
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\SettingsWindow.baml
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\Style\Styles.baml
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\App.baml
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\ComposeWindow.g.cs
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EditEmailWindow.g.cs
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EmailSearchControl.g.cs
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\Input.g.cs
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\MainWindow.g.cs
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\SettingsWindow.g.cs
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\App.g.cs
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EmailClient_MarkupCompile.cache
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EmailClient_MarkupCompile.lref
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\MainWindow.baml
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EmailClient.g.resources
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EmailClient.Properties.Resources.resources
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EmailClient.csproj.GenerateResource.cache
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EmailClient.csproj.CoreCompileInputs.cache
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EmailClient.exe
+C:\Users\Enes Şen\Desktop\Bunu 3. olarak yükle\DEvam et\EmailClient\obj\Release\EmailClient.pdb

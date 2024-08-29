@@ -1,0 +1,25 @@
+﻿<Window x:Class="EmailClient.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Settings" Height="300" Width="400" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <TabControl>
+       
+        <TabItem Header="Categories">
+            <StackPanel Margin="10">
+                <Button Style="{StaticResource PrimaryButtonStyle}" Content="Add" Margin="5" Click="AddCategory_Click"/>
+                <Button Style="{StaticResource PrimaryButtonStyle}" Content="Delete" Margin="5" Click="DeleteCategory_Click"/>
+                <Button Style="{StaticResource PrimaryButtonStyle}" Content="Edit" Margin="5" Click="EditCategory_Click"/>
+                <ListBox x:Name="categoriesList" Margin="5" />
+            </StackPanel>
+        </TabItem>
+        <TabItem Header="Automatic Saving">
+            <StackPanel Margin="10">
+                <CheckBox x:Name="chkEnableBackup" Content="Enable Automatic Backup" IsChecked="{Binding BackupEnabled, Mode=TwoWay}" Margin="5"/>
+                <Label Content="Backup Interval (minutes):" Margin="5"/>
+                <TextBox x:Name="txtBackupInterval" Text="{Binding BackupInterval, Mode=TwoWay}" Margin="5"/>
+                <Button  Style="{StaticResource PrimaryButtonStyle}" Content="Save Settings" Margin="5" Click="SaveBackupSettings_Click"/>
+            </StackPanel>
+        </TabItem>
+    </TabControl>
+    
+</Window>

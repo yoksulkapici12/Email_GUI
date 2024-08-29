@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="EmailClient.EmailSearchControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Width="Auto" Height="Auto">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.Column="0" Margin="5">
+            <TextBox x:Name="txtSearch" Margin="5" Width="180" HorizontalAlignment="Stretch"/>
+            <ComboBox Style="{StaticResource DefaultComboBoxStyle}" x:Name="cmbCategory" Margin="5" Width="100">
+                <ComboBoxItem Content="Subject"/>
+                <ComboBoxItem Content="Sender"/>
+                <ComboBoxItem Content="Recipient"/>
+            </ComboBox>
+            <Button Style="{StaticResource PrimaryButtonStyle}" Content="Search" Margin="5" Click="Search_Click"/>
+            <Button Style="{StaticResource PrimaryButtonStyle}" Content="Reset" Margin="5" Click="ResetButton_Click"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
